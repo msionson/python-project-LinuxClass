@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 
-print("Hello world")
+print("Welcome")
+print("This will serve as an example")
